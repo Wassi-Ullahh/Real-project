@@ -1,0 +1,68 @@
+    .sign-up-heading {
+        text-align: center;
+        margin-top: 150px;
+    }
+
+    .email-container {
+        text-align: center;
+    }
+
+    .last-name {
+        text-align: center;
+        padding: 10px 20px 10px 20px;
+        max-width: 500px;
+        width: 100%;
+        margin-bottom: 15px;
+        display: block;
+        margin: 0 auto 15px auto;
+    }
+
+    .first-name {
+        text-align: center;
+        padding: 10px 20px 10px 20px;
+        max-width: 500px;
+        width: 100%;
+        margin-bottom: 15px;
+        display: block;
+        margin: 0 auto 15px auto;
+    }
+    
+    .text {
+        text-align: center;
+        padding: 10px 20px 10px 20px;
+        max-width: 500px;
+        width: 100%;
+        display: block;
+        margin: 0 auto 15px auto;
+    }
+
+    .password {
+        text-align: center;
+        padding: 10px 20px 10px 20px;
+        max-width: 500px;
+        width: 100%;
+        display: block;
+        margin: 0 auto 15px auto;
+    }
+
+    .submit-button-container {
+        text-align: center;
+    }
+
+    .submit-button {
+        background-color: black;
+        border-radius: 15px;
+        border: solid black;
+        border-width: 1px;
+        padding: 17px;
+        font-size: 25px;
+        font-weight: bold;
+        color: white;
+        cursor: pointer;
+        margin-top: 20px;
+        transition: 0.15s;
+    }
+
+    .submit-button:hover {
+        box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.6);
+    }
